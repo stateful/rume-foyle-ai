@@ -1,0 +1,12 @@
+{
+    "runme.telemetry.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "window.autoDetectColorScheme": true,
+    "remote.autoForwardPorts": false,
+    "runme.app.authTokenPath": "/home/coder/.secrets/authToken",
+    "runme.app.deleteAuthToken": false,
+    "runme.experiments.aiAutoCell": true,
+    "runme.features.AddTrustedDomains": true,
+    "runme.features.AutoOpenTerminal": true,
+}
