@@ -4,6 +4,6 @@ runme:
   version: v3
 ---
 
-## Demo repo to for Runme + Foyle AI
+## Runme + Foyle AI
 
 Add a new markdown cell (`+ Markdown`) and describe your intend / goal for Foyle AI to assist you.
