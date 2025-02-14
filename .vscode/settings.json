@@ -7,6 +7,5 @@
     "runme.app.authTokenPath": "/home/coder/.secrets/authToken",
     "runme.app.deleteAuthToken": false,
     "runme.experiments.aiAutoCell": true,
-    "runme.features.AddTrustedDomains": true,
-    "runme.features.AutoOpenTerminal": true,
+    "runme.app.showLoginNotification": false
 }
